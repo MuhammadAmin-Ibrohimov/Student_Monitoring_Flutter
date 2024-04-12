@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506769117697",
+    "project_id": "student-monitoring-bac3e",
+    "storage_bucket": "student-monitoring-bac3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506769117697:android:b23b0d9194a5fc89a8e600",
+        "android_client_info": {
+          "package_name": "com.example.monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5C3Qh4J2BXrtZ99aWPG5rbfkTwD5es1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
